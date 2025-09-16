@@ -53,17 +53,18 @@ button:active {
     background: #888;
 }
 
-button:nth-child(16) { /* + button */
+button:nth-child(16) { 
     background: #ff9500;
     color: #fff;
 }
 
-button:nth-child(15) { /* = button */
+button:nth-child(15) { 
     background: #34c759;
     color: #fff;
 }
 
-button:nth-child(17) { /* C button */
+button:nth-child(17) { 
     background: #ff3b30;
     color: #fff;
+
 }
